@@ -54,8 +54,6 @@ pip install -r requirements.txt
 
    The script also checks if a collection exists before creating a new one.
 
-```
-```
 
 ## Example Usage
 
@@ -70,5 +68,3 @@ vec.upload_pdfs_user(path='data/CA/Final_CA/Taxation-Goods-and-service-Tax', del
 
 - `uuid4` is used to generate unique document IDs.
 - Each chunk of text has its own unique embedding to facilitate better semantic search.
-
-##
