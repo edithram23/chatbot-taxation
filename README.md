@@ -79,7 +79,6 @@ HF might not contain latest version.<br>
 
 ## Project Structure
 ```
-
 - **App.py**: Main file that initializes Gradio and handles user interaction.
 - **Retriever.py**: Handles retrieval of data from Qdrant vector store.
 - **Setup.py**: Provides utilities for embedding, formatting data, and integrating with the chatbot.
