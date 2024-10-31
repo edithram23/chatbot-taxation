@@ -1,5 +1,4 @@
-# Chatbot 
-## Taxation RAG & ChatPDF
+# Chatbot : Taxation RAG & ChatPDF
 
 ## Overview
 This repository contains an AI chatbot application that uses Gradio to provide a user-friendly interface for interacting with a LLM which uses taxation data as context by default (RAG) and also supports users to upload PDF documents and chat with it. The bot accepts both text and voice inputs and can respond in both formats.
@@ -65,14 +64,12 @@ Create a `.env` file in the root directory of your project and add the following
 - **Voice**: You will also receive the response in an audio format.
 
 ### WorkFlow : Taxation ChatBot
-
-![image](https://github.com/user-attachments/assets/0e28b105-d348-4149-87b6-0bb5907f3037)
+<img src="https://github.com/user-attachments/assets/0e28b105-d348-4149-87b6-0bb5907f3037" alt="image" width="600">
 
 ### Work Flow : Chat & Talk with Docs
-![image](https://github.com/user-attachments/assets/a4750792-2e44-4807-af7b-7e15951554d5)
+<img src="https://github.com/user-attachments/assets/a4750792-2e44-4807-af7b-7e15951554d5" alt="image" width="600">
 
 
-<img src="https://github.com/user-attachments/assets/a4750792-2e44-4807-af7b-7e15951554d5" alt="image" width="400" height="300">
 
 ### Deployment
 This application can be accessed on Huggingface and on Azure.
