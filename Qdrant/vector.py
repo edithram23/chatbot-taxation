@@ -1,5 +1,5 @@
 """
-    This script splits PDF documents into chunks, generates embeddings using OpenAI (text-embedding-3-small), 
+    This script splits PDF documents into chunks, generates embeddings using OpenAI (text-embedding-3-large), 
     and uploads them to a Qdrant vector database for efficient semantic search.
 """
 
