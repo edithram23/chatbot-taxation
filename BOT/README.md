@@ -68,8 +68,8 @@ Create a `.env` file in the root directory of your project and add the following
 
 ## Deployment
 This application can be accessed on Huggingface and on Azure.
-
-**Hugging Face** : ```https://huggingface.co/spaces/edithram23/Chatbot```   [Might not contain the latest version]
+HF might not contain latest version.
+**Hugging Face** : ```https://huggingface.co/spaces/edithram23/Chatbot```<br>
 **Azure** : ```https://siel-app-dughf2h6bvfvdtaf.centralindia-01.azurewebsites.net/```
 ```
 
