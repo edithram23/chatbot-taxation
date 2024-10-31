@@ -71,6 +71,9 @@ Create a `.env` file in the root directory of your project and add the following
 ### Work Flow : Chat & Talk with Docs
 ![image](https://github.com/user-attachments/assets/a4750792-2e44-4807-af7b-7e15951554d5)
 
+
+<img src="https://github.com/user-attachments/assets/a4750792-2e44-4807-af7b-7e15951554d5" alt="image" width="400" height="300">
+
 ### Deployment
 This application can be accessed on Huggingface and on Azure.
 HF might not contain latest version.<br>
