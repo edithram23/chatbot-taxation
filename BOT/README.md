@@ -10,8 +10,6 @@ This repository contains an AI chatbot application that uses Gradio to provide a
 - **User-uploaded PDF Support**: Users can upload their own PDFs to use it like a NOTEBOOKLLM and can talk/chat with that as the knowledge base and query the chatbot regarding the content.
 
 ## Prerequisites
-- Python 3.9 or higher
-- Docker (optional for containerized deployment)
 - Environment variables for API keys must be set in a `.env` file (see Environment Variables section below).
 
 ### Key Libraries
