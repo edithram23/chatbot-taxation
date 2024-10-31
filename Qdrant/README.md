@@ -1,2 +1,4 @@
-# chatbot-taxation
- Chatbot with Indian Taxation KB and rep of NotebookLLM
+# Vector DB
+
+Qdrant vector DB is used to store and retrieve Data efficiently.
+2 - collections for the two tasks.
