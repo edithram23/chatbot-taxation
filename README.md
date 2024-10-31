@@ -22,7 +22,7 @@ This repository contains an AI chatbot application that uses Gradio to provide a
 1. Clone the repository:
     ```sh
     git clone https://github.com/edithram23/chatbot-taxation.git
-    cd chatbot=taxation
+    cd chatbot-taxation
     ```
 
 2. Create a virtual environment and activate it:
