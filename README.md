@@ -76,9 +76,10 @@ This application can be accessed on Huggingface and on Azure.
 HF might not contain latest version.<br>
 **Hugging Face** : ```https://huggingface.co/spaces/edithram23/Chatbot```<br>
 **Azure** : ```https://siel-app-dughf2h6bvfvdtaf.centralindia-01.azurewebsites.net/```
-```
 
 ## Project Structure
+```
+
 - **App.py**: Main file that initializes Gradio and handles user interaction.
 - **Retriever.py**: Handles retrieval of data from Qdrant vector store.
 - **Setup.py**: Provides utilities for embedding, formatting data, and integrating with the chatbot.
