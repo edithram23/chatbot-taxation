@@ -67,7 +67,8 @@ Create a `.env` file in the root directory of your project and add the following
 This application can be accessed on Huggingface and on Azure.
 HF might not contain latest version.<br>
 **Hugging Face** : ```https://huggingface.co/spaces/edithram23/Chatbot```<br>
-**Azure** : ```https://siel-app-dughf2h6bvfvdtaf.centralindia-01.azurewebsites.net/```
+**Azure** : ```https://siel-app-dughf2h6bvfvdtaf.centralindia-01.azurewebsites.net/```<br>
+**On permise** : ```http://115.96.227.175:3000/```
 
 ### WorkFlow : Taxation ChatBot
 <img src="https://github.com/user-attachments/assets/0e28b105-d348-4149-87b6-0bb5907f3037" alt="image" width="600">
