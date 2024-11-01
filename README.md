@@ -63,19 +63,18 @@ Create a `.env` file in the root directory of your project and add the following
 - **Text**: The assistant will reply to your query in the conversation box.
 - **Voice**: You will also receive the response in an audio format.
 
+### Deployment
+This application can be accessed on Huggingface and on Azure.
+HF might not contain latest version.<br>
+**Hugging Face** : ```https://huggingface.co/spaces/edithram23/Chatbot```<br>
+**Azure** : ```https://siel-app-dughf2h6bvfvdtaf.centralindia-01.azurewebsites.net/```
+
 ### WorkFlow : Taxation ChatBot
 <img src="https://github.com/user-attachments/assets/0e28b105-d348-4149-87b6-0bb5907f3037" alt="image" width="600">
 
 ### Work Flow : Chat & Talk with Docs
 <img src="https://github.com/user-attachments/assets/a4750792-2e44-4807-af7b-7e15951554d5" alt="image" width="600">
 
-
-
-### Deployment
-This application can be accessed on Huggingface and on Azure.
-HF might not contain latest version.<br>
-**Hugging Face** : ```https://huggingface.co/spaces/edithram23/Chatbot```<br>
-**Azure** : ```https://siel-app-dughf2h6bvfvdtaf.centralindia-01.azurewebsites.net/```
 
 ## Project Structure
 ```
